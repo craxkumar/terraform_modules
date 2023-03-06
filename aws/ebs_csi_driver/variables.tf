@@ -7,8 +7,3 @@ variable "region" {
   type    = string
   description = "The region in which the cluster is defined"
 }
-
-variable "account-id" {
-  type    = string
-  description = "Account id of the aws user"
-}
