@@ -16,10 +16,10 @@ while EKS is a fully managed Kubernetes service. EKS can use EBS volumes to stor
 1. Successfully deployed EKS cluster on AWS.
 2. OIDC provider for the your EKS cluster.
 
-#### why EKS cluster ?
+#### Why EKS cluster ?
 > As we are going to use EBS in conjunction with EKS.
 
-#### why OIDC provider for your EKS cluster ?
+#### Why OIDC provider for your EKS cluster ?
 > To enable authentication between Kubernetes and AWS services(EBS).
 
 ---
