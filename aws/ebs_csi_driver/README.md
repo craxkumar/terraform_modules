@@ -36,8 +36,8 @@ Note:-
 1. module name can be anything, but name it as "ebs_csi_driver" so it would be easier to understand what the module is meant for.
 2. source should be same as "github.com/craxkumar/terraform_modules/aws/ebs_csi_driver".
 3. cluster name, mention your defined EKS cluster name in which you want to add ebs_csi driver.
-4. region, mention region in which the EKS cluster id deployed.
+4. region, mention region in which the EKS cluster is deployed.
 ---
-#### Below is a reference on how to use ebs_csi driver module
+#### Below is a reference on how to use ebs_csi_driver module
 
 ![alt text](https://i.imgur.com/l9WttoY.png)
